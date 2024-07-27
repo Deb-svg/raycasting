@@ -20,7 +20,7 @@ extern double planeX, planeY; // Camera plane
 extern int worldMap[mapWidth][mapHeight];
 
 // Function declarations
-void handleInput(bool& running);
-void render(SDL_Renderer* renderer);
+void handleInput(bool& running, double& posX, double& posY, double& dirX, double& dirY, double& planeX, double& planeY);
+void render(SDL_Renderer* renderer, double posX, double posY, double dirX, double dirY, double planeX, double planeY);
 
 #endif // RAYCASTER_HPP
