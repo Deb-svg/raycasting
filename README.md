@@ -87,7 +87,7 @@ The core of the raycasting engine involves casting rays from the player's positi
 - **Optimization**: Improving performance for larger maps and higher resolutions.
 
 ## Resources
-- [SDL2 Documentation]([https://](https://wiki.libsdl.org/SDL2/FrontPage).
+- [SDL2 Documentation](https://wiki.libsdl.org/SDL2/FrontPage).
 - [Raycasting Tutorial](https://lodev.org/cgtutor/raycasting.html): Comprehensive guide on raycasting techniques.
 
 ## Acknowledgements
